@@ -1,5 +1,3 @@
-### Johann Glock
-
 PhD researcher in software engineering at the University of Klagenfurt,
 working on program analysis and automated testing.
 
