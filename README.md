@@ -1,4 +1,4 @@
-PhD researcher in software engineering at the University of Klagenfurt,
+PhD student in software engineering at the University of Klagenfurt,
 working on program analysis and automated testing.
 
 Outside of research, I build interactive maps, data-mined game
